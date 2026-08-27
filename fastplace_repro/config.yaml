@@ -1,0 +1,7 @@
+max_iter: 25
+bin_w: 10.0
+bin_h: 10.0
+target_util: 0.7
+spread_weight: 0.6
+refine_every: 2
+refine_iters: 2
