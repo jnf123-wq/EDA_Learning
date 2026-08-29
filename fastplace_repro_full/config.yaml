@@ -6,3 +6,9 @@ spread_weight: 0.6
 beta: 0.6
 refine_every: 2
 refine_iters: 2
+
+# Stage 3: legalization + detailed placement
+legal_bin_w: 2.0
+legal_bin_h: 2.0
+detail_iters: 3
+detail_step: 2.0
